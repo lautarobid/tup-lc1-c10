@@ -1,2 +1,2 @@
-# tup-lc1-c10
+# UTN
 Laboratorio de Computación I- UTN
